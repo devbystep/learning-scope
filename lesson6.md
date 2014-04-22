@@ -1,5 +1,5 @@
 ## Questions ##
 
 * Не находит файлы исходные, показывается compiled code.
-* Итераратора
+* Итераторы
 * dns, hosting, proxmox, server, domain name
